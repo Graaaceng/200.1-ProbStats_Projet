@@ -37,3 +37,12 @@ Pour ouvrir ou créer un notebook **marimo** :
 ```bash
 uv run marimo edit chemin/vers/fichier.py
 ```
+
+## Contenu du graphique
+
+**Problématique** : La quantité de précipitation en été a-t-elle un impact sur
+la quantité de précipitation en hiver ?
+
+Le graphique devra permettre de visualiser la relation entre les précipitations
+estivales et hivernales. Il est imposé de pouvoir visualiser comment cette
+relation a évolué au fil du temps.
